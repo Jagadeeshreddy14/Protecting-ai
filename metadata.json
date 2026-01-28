@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of ProctorAI",
+  "description": "An advanced Online Exam Proctoring System simulation with AI-based question generation, biometric verification simulation, and robust anti-cheating frontend mechanisms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
